@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+<p>&emsp;&emsp;嗨，欢迎来到我的主页！我是lsit.</p>
+<p>&emsp;&emsp;Github 是一个很有魅力的地方，有许许多多的大佬在这里活跃。 </p>
+<p>&emsp;&emsp;学习真的是一个很棒的习惯，通过学习别人的东西转变成为自己的。 </p>
+<p>&emsp;&emsp;我想书写一篇自己的魔法书</p>
+<p>&emsp;&emsp;<strong>此处留白</strong></p>
+
+<div>&nbsp;</div>
+
 <!--
 **lsitvoid/lsitvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
