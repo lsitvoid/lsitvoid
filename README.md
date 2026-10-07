@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # ʚ 嗨嗨，我是 𝓘𝓼𝓲𝓽 ɞ
 
-<img src="demo.svg" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=500&lines=%E6%AD%A3%E5%9C%A8%E4%B9%A6%E5%86%99%E4%B8%80%E7%AF%87%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AD%94%E6%B3%95%E4%B9%A6+%E2%9C%A8;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E5%BC%80%E5%BF%83%E5%86%99%E4%BB%A3%E7%A0%81%E5%91%80%EF%BC%81%F0%9F%8C%B8" alt="Typing SVG" />
 
 
 <a href="http://shijieheping.top">
