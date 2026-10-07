@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/✉️_Email-ff8fab?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2435108915@qq.com.com)
+[![QQ](https://img.shields.io/badge/✉️_Email-ff8fab?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2435108915@qq.com.com)
 [![Blog](https://img.shields.io/badge/🌐_Blog-shijieheping.top-ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white)](http://shijieheping.top)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=80&section=footer" />
