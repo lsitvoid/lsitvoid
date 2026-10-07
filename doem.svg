@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" style="background-color:#1a1a1a;">
+  <!-- 下面闭眼开心的女孩（身体和头） -->
+  <g id="bottom-girl">
+    <!-- 头发底色 -->
+    <ellipse cx="200" cy="260" rx="100" ry="70" fill="#C4B7B0"/>
+    <!-- 脸部 -->
+    <ellipse cx="200" cy="250" rx="50" ry="45" fill="#FCE5DA"/>
+    <!-- 闭眼的线 -->
+    <path d="M175 245 Q185 255 195 245" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M205 245 Q215 255 225 245" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- 张开的嘴巴 -->
+    <path d="M190 265 Q200 280 210 265" fill="#E8505B"/>
+    <!-- 粉色蝴蝶结 -->
+    <path d="M120 230 L100 210 L120 200 L130 220 Z" fill="#E8505B"/>
+    <path d="M130 220 L150 205 L160 225 L140 235 Z" fill="#E8505B"/>
+    <!-- 黄色衣服和拥抱的手臂 -->
+    <path d="M120 300 Q200 350 280 300 L300 400 L100 400 Z" fill="#F5D78E"/>
+    <path d="M260 280 Q320 300 300 350" stroke="#FCE5DA" stroke-width="20" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- 上面生气的女孩 -->
+  <g id="top-girl">
+    <!-- 头发底色 -->
+    <ellipse cx="240" cy="130" rx="90" ry="80" fill="#B5A79F"/>
+    <!-- 脸部 -->
+    <ellipse cx="240" cy="130" rx="45" ry="40" fill="#FCE5DA"/>
+    <!-- 生气的红色眼睛 -->
+    <ellipse cx="220" cy="125" rx="8" ry="10" fill="#D32F2F"/>
+    <ellipse cx="260" cy="125" rx="8" ry="10" fill="#D32F2F"/>
+    <!-- 脸红红晕 -->
+    <ellipse cx="210" cy="140" rx="10" ry="5" fill="#FF8A80" opacity="0.6"/>
+    <ellipse cx="270" cy="140" rx="10" ry="5" fill="#FF8A80" opacity="0.6"/>
+    <!-- 嘴巴 -->
+    <path d="M230 150 Q240 160 250 150" fill="#C62828"/>
+    <!-- 黑色水手服领子 -->
+    <path d="M200 180 Q240 200 280 180 L270 230 L210 230 Z" fill="#2C3E50"/>
+    <!-- 放在下方女孩头上的手 -->
+    <ellipse cx="200" cy="180" rx="25" ry="15" fill="#FCE5DA" transform="rotate(-30 200 180)"/>
+  </g>
+
+  <!-- 生气的符号 💢 -->
+  <g id="anger-mark" transform="translate(70, 50)">
+    <path d="M 0,-20 L 5,-5 L 20,0 L 5,5 L 0,20 L -5,5 L -20,0 L -5,-5 Z" fill="#E53935"/>
+    <path d="M 15,-15 L 5,-5 M 15,15 L 5,5 M -15,-15 L -5,-5 M -15,15 L -5,5" stroke="#E53935" stroke-width="3" fill="none"/>
+  </g>
+
+  <!-- 飘浮的粉色爱心 -->
+  <g id="hearts" fill="#F48FB1">
+    <path d="M 80 180 C 80 170 90 170 90 180 C 90 170 100 170 100 180 C 100 190 90 200 90 205 C 90 200 80 190 80 180 Z" transform="scale(0.8) translate(10, 10)"/>
+    <path d="M 100 200 C 100 190 110 190 110 200 C 110 190 120 190 120 200 C 120 210 110 220 110 225 C 110 220 100 210 100 200 Z" transform="scale(0.5) translate(100, 150)"/>
+  </g>
+</svg>
