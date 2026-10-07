@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 
 ### 🍓 我的小星球数据
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=lsit&show_icons=true&theme=sakura&hide_border=true&locale=cn" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsit&layout=compact&theme=sakura&hide_border=true&locale=cn" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=listviod&show_icons=true&theme=sakura&hide_border=true&locale=cn" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=listviod&layout=compact&theme=sakura&hide_border=true&locale=cn" />
 
 <br><br>
 
